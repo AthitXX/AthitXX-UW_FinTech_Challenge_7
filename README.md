@@ -24,8 +24,11 @@ Deploy the notebook as a web application
 This notebook utilizes the following technologies:
 
 Pandas
+
 sqlalchemy
+
 hvplot
+
 voila
 
 ---
@@ -33,8 +36,11 @@ voila
 ## Installation
 
 conda install pandas
+
 conda install -c pyviz hvplot
+
 pip install SQLAlchemy
+
 conda install -c conda-forge voila
   
 ---
